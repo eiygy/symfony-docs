@@ -2,7 +2,7 @@ Contributing
 ============
 
 .. toctree::
-    :hidden:
+    :available:
 
     code_of_conduct/index
     code/index
